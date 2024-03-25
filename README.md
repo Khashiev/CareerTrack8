@@ -89,8 +89,8 @@
         <strong>Желаемая вакансия</strong>
       </th>
       <th>
-        <p><strong>Точки роста:</strong></p>
-        <p><strong>Что именно не хватает и что нужно усилить?</strong> </p>
+        <strong>Точки роста:</strong><br>
+        <strong>Что именно не хватает и что нужно усилить?</strong>
       </th>
     </tr>
   </thead>
